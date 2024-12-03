@@ -1,4 +1,4 @@
-package projet.planedb;
+package projet.plane;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

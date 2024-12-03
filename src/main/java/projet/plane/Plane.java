@@ -1,4 +1,4 @@
-package projet.planedb;
+package projet.plane;
 
 public class Plane {
 	private String numPlane;
