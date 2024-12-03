@@ -7,7 +7,7 @@
     <artifactId>plane</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>planedb</name>
+    <name>plane</name>
 
     <build>
         <finalName>plane</finalName>
