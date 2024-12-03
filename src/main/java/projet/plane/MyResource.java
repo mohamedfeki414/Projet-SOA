@@ -22,4 +22,13 @@ public class MyResource {
     public String getIt() {
         return "Got it!";
     }
+    
+    
+    @GET
+    @Produces(MediaType.TEXT_PLAIN)
+    @Path("affiche")
+    public String affiche() {
+    	System.out.println("Hello world");
+        return "Hello world";
+    }
 }
